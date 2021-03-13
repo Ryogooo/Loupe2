@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Loupe2</string>
+    <string name="name">カメラが起動します</string>
+    <string name="text">撮影した画像上に指でタッチ\nすると拡大されます</string>
+</resources>
